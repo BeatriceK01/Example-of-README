@@ -1,5 +1,5 @@
 # Example-of-README
-##Sub-title
+## Sub-title
 
 **Bold text**
 
